@@ -1,0 +1,1 @@
+echo -e "# My Domains & Contact\n\n## Websites\n- https://eheps.org\n- https://eheps.com\n\n## Emails\n- ewaz.2010@gmail.com\n- executivedirector@eheps.org\n- Executive@eheps.com" > my_domains.md && git add my_domains.md && git commit -m "add domains and contact info" && git push
